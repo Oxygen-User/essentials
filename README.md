@@ -13,4 +13,5 @@ This demo might be an old version but I'll try to update it as much as I can.
 
 ## Pictures:
 
-![Oopsie, couldn't load the picture!]([[https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/Oxygen-User/essentials/blob/main/Essentials_Pictures/Screenshot%202026-10-14%20213255.png)](https://github.com/Oxygen-User/essentials/blob/main/Essentials_Pictures/Screenshot%202026-10-14%20213255.png) "Pic1")
+https://github.com/Oxygen-User/essentials/blob/main/Essentials_Pictures/Screenshot%202026-10-14%20213255.png 
+
