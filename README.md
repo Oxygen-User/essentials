@@ -13,5 +13,5 @@ This demo might be an old version but I'll try to update it as much as I can.
 
 ## Pictures:
 
-https://github.com/Oxygen-User/essentials/blob/main/Essentials_Pictures/Screenshot%202026-10-14%20213255.png 
+<img width="1917" height="1057" alt="Image" src="https://github.com/user-attachments/assets/9dc88d4e-b202-41b7-baf8-700418c94ac0" />
 
